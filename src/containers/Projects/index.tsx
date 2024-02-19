@@ -10,21 +10,21 @@ const Projects = () => (
       <li>
         <Project
           title="Clone Disneyplus"
-          description=""
+          description="Um clone da home page do Disney+ utilizando HTML e SCSS"
           link="https://clone-disneyplus-rho-seven.vercel.app/"
         />
       </li>
       <li>
         <Project
           title="Espolio do aventureiro"
-          description=""
+          description="Site simples de uma loja feito com HTML e CSS"
           link="https://espolio-do-aventureiro.vercel.app/"
         />
       </li>
       <li>
         <Project
           title="Board Games Shop"
-          description=""
+          description="Site simples de uma loja feito com HTML e CSS"
           link="https://site-board-games-ivlbfpaee-jrcmelo.vercel.app/"
         />
       </li>

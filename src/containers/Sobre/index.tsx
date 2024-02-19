@@ -6,9 +6,9 @@ const Sobre = () => (
   <section>
     <Title fontSize={16}>Sobre mim</Title>
     <Paragrafo tipo="principal">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi pariatur
-      obcaecati repellat quia accusantium labore, fugit maxime non numquam quae
-      blanditiis accusamus omnis sequi quod qui distinctio rem sed voluptatibus.
+      Excelentes capacidades de análise, escrita, raciocínio relacionados a área
+      da T.I. Dinâmico, ativo, determinado e com facilidade de adaptação em
+      novos ambientes. Com boa fluência verbal e disposto a novos desafios.
     </Paragrafo>
     <GithubSection>
       <img src="https://github-readme-stats.vercel.app/api?username=jrcmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
