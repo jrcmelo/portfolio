@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import Paragrafo from '../Paragrafo'
 import Title from '../Title'
 import { Card, LinkButton } from './styles'
