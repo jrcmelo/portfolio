@@ -8,40 +8,25 @@ const Projects = () => (
     <Title fontSize={16}>Projetos</Title>
     <List>
       <li>
-        <Project />
+        <Project
+          title="Clone Disneyplus"
+          description=""
+          link="https://clone-disneyplus-rho-seven.vercel.app/"
+        />
       </li>
       <li>
-        <Project />
+        <Project
+          title="Espolio do aventureiro"
+          description=""
+          link="https://espolio-do-aventureiro.vercel.app/"
+        />
       </li>
       <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
-      </li>
-      <li>
-        <Project />
+        <Project
+          title="Board Games Shop"
+          description=""
+          link="https://site-board-games-ivlbfpaee-jrcmelo.vercel.app/"
+        />
       </li>
     </List>
   </section>
